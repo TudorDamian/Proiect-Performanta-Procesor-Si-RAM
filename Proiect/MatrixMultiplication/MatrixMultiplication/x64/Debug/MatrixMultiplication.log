@@ -1,0 +1,6 @@
+﻿  MatrixMultiplication.cpp
+E:\Facultate\Anul 3\Sem1\SSC\SSC_Project\MatrixMultiplication\MatrixMultiplication\MatrixMultiplication.cpp(21,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Facultate\Anul 3\Sem1\SSC\SSC_Project\MatrixMultiplication\MatrixMultiplication\MatrixMultiplication.cpp(22,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Facultate\Anul 3\Sem1\SSC\SSC_Project\MatrixMultiplication\MatrixMultiplication\MatrixMultiplication.cpp(23,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Facultate\Anul 3\Sem1\SSC\SSC_Project\MatrixMultiplication\MatrixMultiplication\MatrixMultiplication.cpp(50,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MatrixMultiplication.vcxproj -> E:\Facultate\Anul 3\Sem1\SSC\SSC_Project\MatrixMultiplication\x64\Debug\MatrixMultiplication.exe
